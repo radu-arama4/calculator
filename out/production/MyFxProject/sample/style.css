@@ -1,0 +1,13 @@
+.text{
+    -fx-font-size: 30px;
+}
+
+.button{
+    -fx-pref-width: 100px;
+    -fx-pref-height: 80px;
+}
+
+.label{
+    -fx-pref-height: 80px;
+    -fx-text-alignment: right;
+}
